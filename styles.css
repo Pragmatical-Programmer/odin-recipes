@@ -1,0 +1,23 @@
+#index-heading {
+    text-align: center;
+    font-size: 60px;
+}
+
+#index-recipe-heading {
+    text-align: center;
+    font-size: 40px;
+}
+
+#index-recipe-list {
+    text-align: center;
+}
+
+#index-recipe-list li {
+    list-style-type: none;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+#index-recipe-list li a {
+    text-decoration: none;
+}
